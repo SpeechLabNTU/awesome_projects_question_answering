@@ -1,3 +1,6 @@
 [submodule "sem2-ay1920/multilabel_qa"]
 	path = sem2-ay1920/multilabel_qa
 	url = https://github.com/rajat1433/QnA_Matching
+[submodule "sem2-ay1819/multilabel_qa"]
+	path = sem2-ay1819/multilabel_qa
+	url = https://github.com/dhecloud/Question_Answering_MSF_Adoption
